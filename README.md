@@ -1,2 +1,12 @@
-# Speech-Bubble
-A simple minecraft mod that displays a visual bubble beside a playe
+# Speech Bubble
+
+## About
+
+Speech Bubble is a mod that displays a visual bubble above or beside a player, showing their recent chat messages
+
+## Core functions:
+
+- Capture chat messages.
+- Associate each message with a player.
+- Render a 2D bubble texture and text positioned in the 3D world at or beside the player's head.
+- Remove or fade the bubble after a timeout.
